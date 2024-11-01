@@ -1,7 +1,5 @@
 {
   "mappings": [
-    "/content/abilifymycitehcp/:/",
-    "/content/abilifymycitehcp/configuration:/.helix/config.json",
-    "/content/abilifymycitehcp/metadata:/metadata.json"
+    "/content/abilifymycitehcp/:/"
   ]
 }
